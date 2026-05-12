@@ -1,0 +1,25 @@
+#un bucle es una estructura que permite ejecutar un bloque de código
+#varias veces mientras se cumpla una condición.
+#for i in range(1, 11): #Repetir de 1 a 11, los dos puntos van si o si, es lo #
+#que viena abajo se va a repetir
+#print(f"Flexión número {i}") #Con la f adelante, vos escribís toda la frase de corrido,
+#como si fuera un texto normal, y donde querés que aparezca el valor de la variable,
+#simplemente la ponés entre llaves { }.
+
+total_goles = 0
+
+while True:
+    entrada = input("Ingresá la cantidad de goles (o escribí 'ya terminó'): ")
+
+    if entrada.lower() == "ya terminó":
+        break
+
+    goles = int(entrada)
+    total_goles += goles
+
+print("Total de goles:", total_goles)
+
+
+print(corte=0)"o"(corte=<11)
+while corte=corte+1
+

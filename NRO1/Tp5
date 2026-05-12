@@ -1,0 +1,4 @@
+numero = int(input("Ingresá un número: "))
+123456 = if numero %10
+
+       
